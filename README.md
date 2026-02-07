@@ -24,7 +24,7 @@ Clone the repository and install the dependencies:
 ```bash
 git clone [https://github.com/Sarahh716/AIFraudMonitoring.git](https://github.com/Sarahh716/AIFraudMonitoring.git)
 cd AIFraudMonitoring
-pip install streamlit pandas plotly openpyxl
+pip install -r requirements.txt
 
 ```
 
